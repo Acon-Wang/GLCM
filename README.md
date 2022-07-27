@@ -18,3 +18,12 @@
 * English speech
 
 [English.tar.gz](https://drive.google.com/file/d/1Uy7WyEg3y-hvefUczo_6gFyyeeTC6ohg/view?usp=sharing): 160 pieces of speech in wav format.
+
+## configuration(Our version)
+
+* python -3.8.12
+
+* pytorch -1.8.0
+
+* numpy -1.21.2
+
