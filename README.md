@@ -1,5 +1,8 @@
 # GLCM：Steganalysis of Compressed Speech Based on Global and Local Correlation Mining
 
+**Authors:** 
+[Jiawei Wang](https://github.com/Acon-Wang/),[Jie Yang](),[Feipeng Gao](),[Peng Xu]()
+
 ## Steganalysis algorithms
 
 * GLCM
