@@ -27,3 +27,4 @@
 
 * numpy -1.21.2
 
+* cudatoolkit -11.1.1
